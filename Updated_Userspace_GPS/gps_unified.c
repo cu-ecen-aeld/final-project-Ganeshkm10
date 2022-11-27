@@ -304,7 +304,7 @@ int main(void) {
     while (1) {
         gps_location(&data);
 
-        printf("%lf %lf\n", data.latitude, data.longitude);
+        printf("Latitude: %lf Longitude: %lf\n", data.latitude, data.longitude);
     }
 
     return EXIT_SUCCESS;
