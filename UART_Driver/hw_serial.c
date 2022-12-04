@@ -299,7 +299,7 @@ static int hw_probe(struct platform_device *pdev)
 
     of_property_read_u32(pdev->dev.of_node, "clock-frequency", &uartclk);
 
-    baud_divisor = uartclk / 16 / 115200;
+    baud_divisor = uartclk / 16 / 9600;
 
     reg_write(dev, UART_OMAP_MDR1_DISABLE, UART_OMAP_MDR1);
     reg_write(dev, 0x00, UART_LCR);
