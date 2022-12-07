@@ -8,4 +8,4 @@ Refer [Overview](https://github.com/cu-ecen-aeld/final-project-TejaswiniLakshmin
 Refer [Schedule](https://github.com/cu-ecen-aeld/final-project-TejaswiniLakshminarayan/wiki/Schedule)
 
 ## My Demo Video and outline of the project
-refer [Video link](https://github.com/cu-ecen-aeld/final-project-Ganeshkm10/wiki/Ganesh-KM's-Final-Project-Video)
+Refer [Video link](https://github.com/cu-ecen-aeld/final-project-Ganeshkm10/wiki/Ganesh-KM's-Final-Project-Video)
